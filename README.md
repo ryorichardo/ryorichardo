@@ -7,7 +7,7 @@ My name is Ryo Richardo, an undergraduate Informatics Engineering student at Ins
 Python, C, C++, Java, Flask, HTML, CSS, Javascript, Bootstrap, Nuxt.js, Vue.js, Node.js, MySQL, PostgreSQL, Prolog.
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryorichardo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryorichardo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 * Email : ryorichardo06@gmail.com
