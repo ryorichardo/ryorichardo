@@ -1,13 +1,15 @@
-## Hello there!
-My name is Ryo Richardo, an undergraduate Informatics Engineering student at Institut Teknologi Bandung. I love to learn something new and improving my skills on Computer Science and Software Engineering. Let's get in touch! 
+## Hello there!　｜　こんにちわ！
+My name is Ryo Richardo, a programming and tech enthusiast especially in AI/ML, Cloud Computing, and Architectural Design. I like to explore something new. Let's connect!
+リョリカルドと呼ばれています。プログラミングとテックファン、特にAI・MLとクラウドコンピューティングとアーキテクチュラルデザインに気に入っています。いつも新しいことを探しているのが大好きです。話しましょう！
 
-## Skills
-Python, C, C++, Java, Flask, HTML, CSS, Javascript, Bootstrap, Nuxt.js, Vue.js, Node.js, MySQL, PostgreSQL, Prolog.
+## Skills　｜　スキル
+Java, Python, C, JS, AWS, SQL, etc.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryorichardo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Stats
+## Stats　｜　スタッツ
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryorichardo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact
+## Contact　｜　連絡先
 * Email : ryorichardo06@gmail.com
+* メール：ryorichardo06@gmail.com
