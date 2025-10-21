@@ -1,7 +1,7 @@
 ## Hello there!　｜　こんにちわ！
 My name is Ryo Richardo, a programming and tech enthusiast especially in AI/ML, Cloud Computing, and Architectural Design. I like to explore something new. Let's connect!
 
-リョリカルドと呼ばれています。プログラミングとテックファン、特にAI・MLとクラウドコンピューティングとアーキテクチュラルデザインに気に入っています。いつも新しいことを探しているのが大好きです。話しましょう！
+リョリカルドと呼ばれています。プログラミングとテックファン、特にAI・MLとクラウドコンピューティングとアーキテクチュラルデザインを気に入っています。いつも新しいことを探しているのが大好きです。話しましょう！
 
 ## Skills　｜　スキル
 Java, Python, C, JS, AWS, SQL, etc.
